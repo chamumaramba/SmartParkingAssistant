@@ -1,0 +1,6 @@
+@SmartParkingAssistant_HostAddress = http://localhost:5073
+
+GET {{SmartParkingAssistant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

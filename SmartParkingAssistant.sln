@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParkingAssistant.Server", "SmartParkingAssistant\SmartParkingAssistant.Server.csproj", "{1A0011B2-A9B4-4F4E-A347-C279DA6109CF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "smartparkingassistant.client", "smartparkingassistant.client\smartparkingassistant.client.esproj", "{50EFB7DC-A5EB-8A77-8A96-CE8BB665BA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0011B2-A9B4-4F4E-A347-C279DA6109CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0011B2-A9B4-4F4E-A347-C279DA6109CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0011B2-A9B4-4F4E-A347-C279DA6109CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0011B2-A9B4-4F4E-A347-C279DA6109CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EFB7DC-A5EB-8A77-8A96-CE8BB665BA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EFB7DC-A5EB-8A77-8A96-CE8BB665BA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EFB7DC-A5EB-8A77-8A96-CE8BB665BA9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{50EFB7DC-A5EB-8A77-8A96-CE8BB665BA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EFB7DC-A5EB-8A77-8A96-CE8BB665BA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EFB7DC-A5EB-8A77-8A96-CE8BB665BA9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F68266-2C83-423D-A17F-049F7B012790}
+	EndGlobalSection
+EndGlobal

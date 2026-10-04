@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build output
+bin/
+obj/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+
+# PlatformIO build output
+.pio/
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+*.bak
+*.mdf
+*.ldf
+
+# Local secrets
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+
+# Logs
+*.log
